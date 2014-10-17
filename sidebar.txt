@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lmv:home|Door43 (lmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lmv|d43-lmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lmv/archive/master.zip|d43-lmv.zip]]
+
+**Recent Changes**
+{{changes>ns = lmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lmv|Ethnologue data]]
+
